@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi there! I'm Wilmil Braga, a Full Stack Developer from Brazil</h2>
+<h2 align="left">👋 Hi there! I'm Wilmila Braga, a Full Stack Developer from Brazil</h2>
 
 ###
 
